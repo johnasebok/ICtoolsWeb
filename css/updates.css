@@ -1,0 +1,38 @@
+body, button{
+    font-family: 'Loved by the King', cursive;
+
+}
+
+.fleetImg{
+    width: 25px;
+    height: 25px;
+}
+
+li{
+    list-style: none;
+}
+
+#fsFleet div{
+    display: inline-block;
+
+}
+
+#tbPlanets{
+    height: 400px;
+    width: 200px;
+}
+
+#pgDisclaimer button{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    display: block;
+}
+#divDisclaimer{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+}
